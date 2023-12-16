@@ -171,6 +171,9 @@ ul {
         transform: rotate(-135deg);
         top: -6px;
     }
+    .section-banner-home .p{
+        height: 600px;
+    }
 }
 
 
