@@ -153,7 +153,12 @@ background: linear-gradient(90deg, rgba(15,15,52,1) 0%, rgba(57,16,115,1) 31%, r
         transform: rotate(-135deg);
         top: -6px;
     }
+    .section-banner-home .p {
+        height: 600px;
+
+    }
 }
+
 /* Fim estilo media  mobile */
 
 
@@ -276,7 +281,7 @@ box-shadow: 3px 3px 6px  #b1b1b1
     align-items: center;
 }
 .novidades .col-md-6 .img-fluid {
-    width: 40%;
+    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
